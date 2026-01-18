@@ -1,4 +1,3 @@
-# student-marks-analyzer
 # Student Marks Analyzer
 
 ## Description
